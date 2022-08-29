@@ -9,7 +9,7 @@ telephone: "77804760"
 skills:
 - name: base de donne
   percentage: 90
-- name: Photography
+- name: programmation web
   percentage: 80
 - name: Illustrator
   percentage: 75
