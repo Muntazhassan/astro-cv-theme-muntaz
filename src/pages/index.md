@@ -28,18 +28,10 @@ experiences:
   current: false
   description: stage de 3 mois (apprendre a creer des base de donner,architecture
     d'ordinateur)
-- experience: Web Developer / something.com
-  period: Mar 2012 - Dec 2014
-  description: Consectetur adipisicing elit. Praesentium magnam consectetur vel in
-    deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio,
-    unde doloremque repellendus iure, iste.
-- experience: Graphic Designer / designsomething.com
-  period: Jun 2010 - Mar 2012
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 educations:
-- education: W3Schools.com
-  period: Forever
-  description: Web Development! All I need to know in one place
+- education: universite de djibouti
+  period: 2018-2020
+  description: licence informatique
 - education: London Business School
   period: 2013 - 2015
   description: Master Degree
