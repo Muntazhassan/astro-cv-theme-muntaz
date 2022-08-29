@@ -18,7 +18,7 @@ skills:
 languages:
 - language: Francais
   percentage: 100
-- language: Spanish
+- language: englais
   percentage: 55
 - language: German
   percentage: 25
