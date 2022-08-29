@@ -13,7 +13,7 @@ skills:
   percentage: 80
 - name: reseau informatique
   percentage: 75
-- name: Media
+- name: programmation oriente objet
   percentage: 50
 languages:
 - language: English
