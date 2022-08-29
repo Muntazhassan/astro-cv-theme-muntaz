@@ -32,9 +32,9 @@ educations:
 - education: universite de djibouti
   period: 2018-2020
   description: licence informatique
-- education: London Business School
-  period: 2013 - 2015
-  description: Master Degree
+- education: lycee d'ali-sabieh
+  period: 2014 - 2018
+  description: bac scientifique
 - education: School of Coding
   period: 2010 - 2013
   description: Bachelor Degree
