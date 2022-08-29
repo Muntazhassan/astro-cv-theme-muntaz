@@ -16,7 +16,7 @@ skills:
 - name: programmation oriente objet
   percentage: 50
 languages:
-- language: English
+- language: Francais
   percentage: 100
 - language: Spanish
   percentage: 55
