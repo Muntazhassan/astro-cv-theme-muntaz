@@ -1,13 +1,13 @@
 ---
 layout: "../layouts/Layout.astro"
-name: Jane Doe
+name: MUNTAZ HASSAN
 image: "./avatar_hat.jpg"
 function: Designer
-address: London, UK
-email: ex@mail.com
-telephone: "1224435534"
+address: Djibouti,balbala
+email: dhemansaredo@mail.com
+telephone: "77804760"
 skills:
-- name: Adobe Photoshop
+- name: base de donne
   percentage: 90
 - name: Photography
   percentage: 80
