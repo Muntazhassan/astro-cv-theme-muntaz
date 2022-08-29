@@ -11,7 +11,7 @@ skills:
   percentage: 90
 - name: programmation web
   percentage: 80
-- name: Illustrator
+- name: reseau informatique
   percentage: 75
 - name: Media
   percentage: 50
