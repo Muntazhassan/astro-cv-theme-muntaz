@@ -35,9 +35,9 @@ educations:
 - education: lycee d'ali-sabieh
   period: 2014 - 2018
   description: bac scientifique
-- education: School of Coding
-  period: 2010 - 2013
-  description: Bachelor Degree
+- education: college d'ali-sabieh
+  period: 2011-2014
+  description: bef
 social:
 - icon: fa-facebook-official
   link: https://www.facebook.com
