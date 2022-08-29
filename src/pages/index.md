@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Layout.astro"
 name: MUNTAZ HASSAN
-image: "./avatar_hat.jpg"
+image: "/public/muntaz.jpg"
 function: Designer
 address: Djibouti,balbala
 email: dhemansaredo@mail.com
