@@ -23,12 +23,11 @@ languages:
 - language: arabe
   percentage: 25
 experiences:
-- experience: Front End Developer / w3schools.com
-  period: Jan 2015
-  current: true
-  description: Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt
-    aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque
-    repellendus iure, iste.
+- experience: formation informatique
+  period: juin 2020- septembre 2020
+  current: false
+  description: stage de 3 mois (apprendre a creer des base de donner,architecture
+    d'ordinateur)
 - experience: Web Developer / something.com
   period: Mar 2012 - Dec 2014
   description: Consectetur adipisicing elit. Praesentium magnam consectetur vel in
